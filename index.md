@@ -1,7 +1,6 @@
 # WiR
 ### _Work in Reverse_
 _WiRwhatWiR
-```html
 <body>
         <div id="render"></div>
         <div id="viewof-distancex"></div>
@@ -27,4 +26,3 @@ _WiRwhatWiR
                  }
                  });
         </script>
-```
